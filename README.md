@@ -3,7 +3,6 @@
 # House Price Predictions by Deep Learning with TensorFlow <center>
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96798591-13accf00-13b6-11eb-9465-47fecfc78e4b.jpg" >
 </div>
